@@ -56,3 +56,9 @@ Uber.getProducts(lat, lon).then(function(response){
 ## Examples
 
 `./examples/ride_times.js`
+
+```
+export UBER_TOKEN=
+npm i CreativeCactus/uber-api
+node node_modules/uber-api/examples/ride_times.js
+```
